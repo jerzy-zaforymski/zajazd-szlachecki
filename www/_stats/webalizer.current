@@ -1,0 +1,874 @@
+# Webalizer V2.01-10 Incremental Data - 10/21/2006 23:27:35
+2006 10 21 23 27 35
+5957 3716 138 49 34 25 22793211 508 164 0
+26 56 322 17 21
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+719 503 2750522 21 58 19
+891 722 4678350 35 86 32
+2078 1211 7310905 50 167 51
+1362 732 4747092 32 130 34
+907 548 3306342 26 67 28
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+63 55 564870 13
+3 1 4354 1
+29 28 119598 3
+27 19 131919 7
+10 4 19883 5
+4 2 11432 2
+4 2 11432 2
+5 1 6608 1
+153 153 870754 13
+607 354 2277644 40
+282 133 1055018 35
+537 310 2027889 46
+555 332 2150055 35
+354 247 1362683 31
+410 238 1591013 28
+436 208 1161718 28
+182 152 763143 18
+406 320 1686982 42
+440 214 1141594 29
+454 267 1666888 35
+246 129 947500 20
+280 223 1126761 30
+219 199 1327218 24
+251 125 766255 20
+0
+0
+0
+3716
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+2145
+0
+0
+0
+0
+0
+0
+94
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/graf/m_res2.gif
+1 76 134755240 659043 0 0
+/
+0 151 0 665423 118 13
+/graf/l.gif
+1 192 0 151984 0 0
+/graf/zajazd.jpg
+1 31 0 820017 0 0
+/graf/m_hot2.gif
+1 60 0 401261 0 0
+/graf/m_res1.gif
+1 75 0 669816 0 0
+/graf/linia.gif
+1 195 0 225745 0 0
+/kon.html
+0 67 0 167750 12 5
+/graf/m_hot1.gif
+1 60 0 468489 0 0
+/graf/m_mapa.gif
+1 90 0 609822 0 0
+/rez.html
+0 44 0 320190 5 2
+/graf/sp.gif
+1 194 0 139764 0 0
+/zaj.html
+0 98 0 270408 14 2
+/graf/res.gif
+1 211 0 107870 0 0
+/graf/hoton.gif
+1 207 0 63916 0 0
+/graf/res5.jpg
+1 9 0 343692 0 0
+/graf/tlo1.jpg
+1 194 0 1200173 0 0
+/graf/herb.jpg
+1 195 0 564072 0 0
+/graf/gora.gif
+1 75 0 43776 0 0
+/graf/rezon.gif
+1 214 0 111606 0 0
+/graf/res4.jpg
+1 9 0 322479 0 0
+/graf/sl.gif
+1 197 0 141636 0 0
+/graf/zajon.gif
+1 204 0 133975 0 0
+/graf/res3.jpg
+1 13 0 443846 0 0
+/graf/konon.gif
+1 211 0 83030 0 0
+/graf/kon.gif
+1 204 0 77740 0 0
+/graf/hot3.jpg
+1 9 0 89754 0 0
+/graf/res2.jpg
+1 11 0 406747 0 0
+/graf/reson.gif
+1 215 0 113088 0 0
+/style.css
+1 198 0 124200 0 0
+/graf/hot2.jpg
+1 15 0 144912 0 0
+/graf/res1.jpg
+1 19 0 597906 0 0
+/res.html
+0 80 0 2410656 11 5
+/graf/hot1.jpg
+1 13 0 167089 0 0
+/hot.html
+0 68 0 211232 4 5
+/graf/mapa.jpg
+1 36 0 1209152 0 0
+/graf/p.gif
+1 192 0 148960 0 0
+/graf/zaj.gif
+1 202 0 125512 0 0
+/graf/tlo2.gif
+1 191 0 86576 0 0
+/graf/dol.gif
+1 190 0 149406 0 0
+/graf/m_res5.gif
+1 74 0 632142 0 0
+/graf/rez.gif
+1 209 0 105994 0 0
+/graf/m_res4.gif
+1 74 0 675428 0 0
+/graf/m_zajazd.gif
+1 89 0 791724 0 0
+/graf/m_res3.gif
+1 74 0 633969 0 0
+/graf/hot.gif
+1 200 0 60145 0 0
+/graf/gora.jpg
+1 196 0 1964253 0 0
+/MONOTYP1.eot
+0 172 0 2230438 0 0
+/graf/m_hot3.gif
+1 60 0 478828 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cpl137.neoplus.adsl.tpnet.pl
+0 29 29 166016 1 1161296092
+/res.html
+hawk44.cs.uiuc.edu
+0 2 1 5716 1 1161225481
+/
+cuf186.internetdsl.tpnet.pl
+0 89 38 264566 1 1161266662
+/
+ti154.internetdsl.tpnet.pl
+0 201 58 287208 2 1161272403
+/hot.html
+sheep45.logos.k.u-tokyo.ac.jp
+0 2 1 5728 1 1161451589
+/
+chello084010249122.chello.pl
+0 29 29 182994 1 1161122813
+/zaj.html
+vpn2.pgd.pl
+0 31 31 140971 1 1161196555
+/kon.html
+66-194-6-70.static.twtelecom.net
+0 1 1 5431 1 1161254156
+/
+btl226.neoplus.adsl.tpnet.pl
+0 71 36 244532 1 1161112744
+/
+gc-na63.alcatel.fr
+0 26 26 119076 1 1161275371
+/zaj.html
+nat-8.autocom.pl
+0 143 92 517960 3 1161436154
+/zaj.html
+afh154.internetdsl.tpnet.pl
+0 31 31 204664 1 1161473045
+/res.html
+president.sponsor.com.pl
+0 240 40 275826 1 1161367360
+/zaj.html
+host86-133-233-71.range86-133.btcentralplus.com
+0 33 32 149479 1 1161206068
+/kon.html
+aye146.internetdsl.tpnet.pl
+0 31 31 174497 1 1161260638
+/kon.html
+ip-83-238-170-241.netia.com.pl
+0 61 33 200636 1 1161186581
+/zaj.html
+btn2.neoplus.adsl.tpnet.pl
+0 66 34 225857 1 1161423432
+/
+49.237.spine.pl
+0 176 42 453258 2 1161300032
+/
+bnu168.neoplus.adsl.tpnet.pl
+0 95 43 331126 1 1161292745
+/zaj.html
+wsip-70-169-191-4.sb.sd.cox.net
+0 4 2 11432 2 1161314616
+/
+bpy53.neoplus.adsl.tpnet.pl
+0 63 1 8210 1 1161291007
+/zaj.html
+netsprint.pl
+0 3 2 11155 2 1161144937
+/
+frantic4.um.krakow.pl
+0 42 42 339414 1 1161248289
+/kon.html
+lj611729.inktomisearch.com
+0 2 2 10862 2 1161407700
+/
+crawl-66-249-65-174.googlebot.com
+0 26 14 104733 6 1161423997
+/kon.html
+dhw98.neoplus.adsl.tpnet.pl
+0 24 24 85638 1 1161119874
+/kon.html
+boe152.neoplus.adsl.tpnet.pl
+0 50 28 147463 1 1161283886
+/kon.html
+racisa.malopolska.mw.gov.pl
+0 45 45 479121 1 1161164929
+/hot.html
+ip-80.54.185.30.eltronik.net.pl
+0 29 29 166016 1 1161355841
+/res.html
+chello087207123043.chello.pl
+0 89 67 455325 2 1161385914
+/res.html
+chello087207231058.chello.pl
+0 34 33 149820 1 1161294787
+/res.html
+153.19.250.107
+0 4 4 21724 2 1161380209
+/
+bxd123.neoplus.adsl.tpnet.pl
+0 31 31 177276 1 1161169583
+/rez.html
+mar.telnet.krakow.pl
+0 40 39 238338 1 1161109672
+/kon.html
+lj611497.inktomisearch.com
+0 1 0 285 0 0
+-
+pg3px.pg.com
+0 35 35 235958 1 1161251229
+/res.html
+bpa91.neoplus.adsl.tpnet.pl
+0 28 28 117887 1 1161285990
+/zaj.html
+bwp187.internetdsl.tpnet.pl
+0 33 32 168182 1 1161279150
+/zaj.html
+livebot-65-54-188-139.search.live.com
+0 2 1 36376 1 1161269262
+/res.html
+212.189.46.131
+0 20 15 114951 2 1161142196
+/zaj.html
+tj18.internetdsl.tpnet.pl
+0 7 0 2002 0 0
+-
+213.172.181.202
+0 52 26 106627 1 1161097027
+/zaj.html
+w3cache.astral.lodz.pl
+0 51 48 497824 1 1161131297
+/kon.html
+abne10.neoplus.adsl.tpnet.pl
+0 88 40 328154 1 1161354954
+/hot.html
+system8589174241.ptvk.pl
+0 125 32 150671 1 1161432760
+/kon.html
+fcy158.internetdsl.tpnet.pl
+0 46 24 85638 1 1161263771
+/kon.html
+all61.internetdsl.tpnet.pl
+0 30 30 135924 1 1161272780
+/hot.html
+pdxg1n-o.webtrends.com
+0 1 1 5431 1 1161210732
+/
+eeg90.internetdsl.tpnet.pl
+0 119 44 390244 1 1161338760
+/zaj.html
+tn230.internetdsl.tpnet.pl
+0 23 23 80207 1 1161257173
+/kon.html
+195.39.217.134
+0 30 30 171447 1 1161246362
+/res.html
+nat-7.autocom.pl
+0 59 37 342579 1 1161446180
+/res.html
+bop92.neoplus.adsl.tpnet.pl
+0 24 24 85638 1 1161388169
+/kon.html
+dvj234.internetdsl.tpnet.pl
+0 54 31 168292 1 1161185222
+/
+bcy5.neoplus.adsl.tpnet.pl
+0 23 23 82588 1 1161115732
+/
+dzq178.internetdsl.tpnet.pl
+0 23 23 82588 1 1161087360
+/
+eor123.internetdsl.tpnet.pl
+0 25 24 97400 1 1161281023
+/res.html
+bto173.neoplus.adsl.tpnet.pl
+0 88 40 297987 1 1161248981
+/res.html
+217.153.19.246
+0 23 22 57549 1 1161271400
+/
+poligon.dial.net.pl
+0 2 2 0 2 1161366188
+/
+adsl-223-233-225.mia.bellsouth.net
+0 29 29 166016 1 1161468425
+/res.html
+cyz146.internetdsl.tpnet.pl
+0 37 36 201741 1 1161084605
+/res.html
+213.76.149.75
+0 26 26 106627 1 1161333399
+/zaj.html
+host165.sopot.wirt.pl
+0 23 23 82588 1 1161445646
+/
+62.146.30.45
+0 20 20 54575 1 1161368283
+/
+ato234.internetdsl.tpnet.pl
+0 23 23 82588 1 1161285887
+/
+all58.internetdsl.tpnet.pl
+0 30 3 27948 1 1161273273
+/
+abmw93.neoplus.adsl.tpnet.pl
+0 65 38 257151 1 1161345333
+/
+archiwum.mg.gov.pl
+0 23 23 82588 1 1161092099
+/
+fec162.internetdsl.tpnet.pl
+0 31 30 150656 1 1161363816
+/zaj.html
+bqg81.neoplus.adsl.tpnet.pl
+0 24 0 0 1 1161471892
+/kon.html
+chello087206075043.chello.pl
+0 92 40 282080 1 1161451860
+/
+abmh146.neoplus.adsl.tpnet.pl
+0 32 31 157668 1 1161287082
+/rez.html
+aato30.neoplus.adsl.tpnet.pl
+0 29 28 140977 1 1161435119
+/res.html
+ewa111.neoplus.adsl.tpnet.pl
+0 55 32 183917 1 1161192687
+/zaj.html
+88-199-87-130.tktelekom.pl
+0 1 1 15785 1 1161429345
+/res.html
+abmc220.neoplus.adsl.tpnet.pl
+0 38 37 204791 1 1161448587
+/kon.html
+s12.c-d.kolornet.pl
+0 34 33 117726 1 1161301896
+/zaj.html
+kavosh00.ee.ucla.edu
+0 4 2 11432 2 1161239861
+/
+prosie22-1.aster.pl
+0 29 29 166016 1 1161160134
+/res.html
+ale94.neoplus.adsl.tpnet.pl
+0 35 34 203994 1 1161200018
+/zaj.html
+tt30.internetdsl.tpnet.pl
+0 35 34 231654 1 1161452824
+/zaj.html
+80.244.146.129.ip.tnp.pl
+0 23 23 82588 1 1161446781
+/
+ether306.ch.uj.edu.pl
+0 38 38 232609 1 1161175711
+/kon.html
+rtr.um.katowice.pl
+0 32 32 162850 1 1161182626
+/zaj.html
+u3c42.u.pppool.de
+0 30 30 171447 1 1161108019
+/res.html
+spider6.szukaj.onet.pl
+0 1 0 297 0 0
+-
+mateusz10.net.autocom.pl
+0 33 33 200520 1 1161264388
+/res.html
+lj612544.inktomisearch.com
+0 1 0 285 0 0
+-
+ip-81-210-32-162.netia.com.pl
+0 23 22 57537 1 1161280435
+/
+efc158.internetdsl.tpnet.pl
+0 67 40 271257 1 1161189689
+/zaj.html
+rtr.ies.krakow.pl
+0 128 46 428070 1 1161349626
+/
+lj602206.inktomisearch.com
+0 1 1 3558 1 1161187424
+/zaj.html
+spider2.szukaj.onet.pl
+0 1 1 5431 1 1161269309
+/
+195.245.213.9
+0 28 28 177563 1 1161165670
+/rez.html
+w3cache.n4u.krakow.pl
+0 118 39 263412 1 1161114272
+/rez.html
+66-194-6-72.static.twtelecom.net
+0 1 1 5431 1 1161391471
+/
+diq112.neoplus.adsl.tpnet.pl
+0 128 78 569956 1 1161257066
+/res.html
+aftab.ee.ucla.edu
+0 9 7 61762 2 1161452165
+/hot.html
+nat-6.autocom.pl
+0 27 27 109677 1 1161453042
+/zaj.html
+buv198.internetdsl.tpnet.pl
+0 125 45 562904 2 1161431404
+/res.html
+pa54.bartoszyce.sdi.tpnet.pl
+0 29 29 132490 1 1161352265
+/hot.html
+uter.gocept.com
+0 39 38 212989 1 1161351453
+/kon.html
+62.29.138.53
+0 177 43 377602 1 1161343187
+/res.html
+sv-crawlfw3.looksmart.com
+0 1 1 3558 1 1161143249
+/zaj.html
+212.2.99.34
+0 39 39 267616 1 1161383029
+/zaj.html
+ablo117.neoplus.adsl.tpnet.pl
+0 33 33 193105 1 1161261703
+/res.html
+lotnicza.nfb.pl
+0 56 34 233272 1 1161097179
+/res.html
+chello087206241099.chello.pl
+0 38 37 204791 1 1161119648
+/kon.html
+bpp81.neoplus.adsl.tpnet.pl
+0 87 40 325773 1 1161112276
+/hot.html
+adsl-68-126-188-113.dsl.pltn13.pacbell.net
+0 1 0 297 0 0
+-
+robot.szukacz.pl
+0 20 8 72769 8 1161437644
+/rez.html
+212.244.242.164
+0 62 62 345999 1 1161279608
+/
+www.gigablast.com
+0 2 1 3843 1 1161229847
+/zaj.html
+33-be2-4.acn.waw.pl
+0 207 44 343948 2 1161272483
+/rez.html
+bpe87.neoplus.adsl.tpnet.pl
+0 41 40 412422 1 1161173557
+/rez.html
+ns1.diariofotografico.com
+0 1 1 5431 1 1161292073
+/
+80.244.131.176.mielec131.ptc.pl
+0 23 23 82588 1 1161380283
+/
+crawler2.wp.pl
+0 13 5 57057 1 1161302883
+/hot.html
+ablr208.neoplus.adsl.tpnet.pl
+0 31 29 146706 1 1161162122
+/res.html
+dzv198.internetdsl.tpnet.pl
+0 32 32 162893 2 1161380703
+/kon.html
+nat-132.ghnet.pl
+0 24 24 85638 1 1161438011
+/kon.html
+ecv71.neoplus.adsl.tpnet.pl
+0 26 25 81588 1 1161275934
+/zaj.html
+lj611005.inktomisearch.com
+0 2 0 570 0 0
+-
+ecl213.neoplus.adsl.tpnet.pl
+0 31 31 88913 1 1161190889
+/
+82.160.71.56
+0 30 30 131224 1 1161084175
+/res.html
+62.29.166.125
+0 78 78 261750 3 1161332314
+/kon.html
+prosie21-1.aster.pl
+0 3 3 33281 1 1161292172
+/
+bnx65.neoplus.adsl.tpnet.pl
+0 61 48 452979 1 1161385120
+/
+bae126.neoplus.adsl.tpnet.pl
+0 54 35 376588 1 1161290314
+/hot.html
+ala106.internetdsl.tpnet.pl
+0 23 23 80207 1 1161249733
+/kon.html
+egv158.internetdsl.tpnet.pl
+0 24 23 65747 2 1161473255
+/rez.html
+chello084010135138.chello.pl
+0 137 65 381708 2 1161470461
+/kon.html
+bqj108.neoplus.adsl.tpnet.pl
+0 39 39 228470 1 1161341369
+/
+ds.pk.edu.pl
+0 27 27 113882 1 1161225289
+/hot.html
+fje86.internetdsl.tpnet.pl
+0 79 57 315860 1 1161164529
+/
+chandra.ee.ucla.edu
+0 2 1 5716 1 1161092616
+/
+lj611293.inktomisearch.com
+0 1 1 3772 1 1161307415
+/hot.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+sheep45.logos.k.u-tokyo.ac.jp
+0 2 1 5728 1 1161451589
+/
+nat-8.autocom.pl
+0 26 26 106627 1 1161436154
+/zaj.html
+afh154.internetdsl.tpnet.pl
+0 31 31 204664 1 1161473045
+/res.html
+btn2.neoplus.adsl.tpnet.pl
+0 66 34 225857 1 1161423432
+/
+crawl-66-249-65-174.googlebot.com
+0 16 12 89912 1 1161423997
+/kon.html
+lj611729.inktomisearch.com
+0 1 1 5431 1 1161407700
+/
+system8589174241.ptvk.pl
+0 125 32 150671 1 1161432760
+/kon.html
+nat-7.autocom.pl
+0 59 37 342579 1 1161446180
+/res.html
+adsl-223-233-225.mia.bellsouth.net
+0 29 29 166016 1 1161468425
+/res.html
+host165.sopot.wirt.pl
+0 23 23 82588 1 1161445646
+/
+bqg81.neoplus.adsl.tpnet.pl
+0 24 0 0 1 1161471892
+/kon.html
+chello087206075043.chello.pl
+0 92 40 282080 1 1161451860
+/
+aato30.neoplus.adsl.tpnet.pl
+0 29 28 140977 1 1161435119
+/res.html
+88-199-87-130.tktelekom.pl
+0 1 1 15785 1 1161429345
+/res.html
+abmc220.neoplus.adsl.tpnet.pl
+0 38 37 204791 1 1161448587
+/kon.html
+tt30.internetdsl.tpnet.pl
+0 35 34 231654 1 1161452824
+/zaj.html
+80.244.146.129.ip.tnp.pl
+0 23 23 82588 1 1161446781
+/
+66-194-6-72.static.twtelecom.net
+0 1 1 5431 1 1161391471
+/
+aftab.ee.ucla.edu
+0 7 6 56046 1 1161452165
+/hot.html
+nat-6.autocom.pl
+0 27 27 109677 1 1161453042
+/zaj.html
+buv198.internetdsl.tpnet.pl
+0 62 11 251290 1 1161431404
+/res.html
+robot.szukacz.pl
+0 4 2 12572 2 1161437644
+/rez.html
+nat-132.ghnet.pl
+0 24 24 85638 1 1161438011
+/kon.html
+lj611005.inktomisearch.com
+0 1 0 285 0 0
+-
+egv158.internetdsl.tpnet.pl
+0 24 23 65747 2 1161473255
+/rez.html
+chello084010135138.chello.pl
+0 137 65 381708 2 1161470461
+/kon.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://krakow.dlastudenta.pl/restauracje/
+0 2
+http://naweekend.pl/kwatery/3599
+0 2
+http://www.krakow.naszemiasto.pl/noclegi/39765_64.html
+0 2
+http://www.google.pl/search
+0 60
+http://katalog.onet.pl/7402,0,71,noclegi-malopolskie,k.html
+0 1
+- (Direct Request)
+1 309
+http://krakow.naszemiasto.pl/kontakty_adresy/39765_64.html
+0 1
+http://katalog.onet.pl/10014,11958,krakow-restauracje-staropolskie,r.html
+0 1
+http://www.eholiday.pl/noclegi-3599.html
+0 7
+http://www.google.co.uk/search
+0 1
+http://www.zajazdszlachecki.emeteor.pl/
+0 2
+http://www.zajazd-szlachecki.pl/
+0 2275
+http://krakow.naszemiasto.pl/noclegi/39765_64.html
+0 2
+http://www.zajazd-szlachecki.pl
+0 28
+http://www.google.com/search
+0 4
+http://krakow.naszemiasto.pl/kontakty_adresy/39765_88.html
+0 4
+http://www.krakow-online.com/Restauracja-169.html
+0 2
+http://www.zajazd-szlachecki.pl/kon.html
+0 524
+http://dmoz.org/World/Polska/Regionalne/Ma艂opolskie/Krak贸w/Biznes/Gastronomia/Restauracje/
+0 1
+http://www.cracow.com/restaurantspl.php
+0 1
+http://www.zajazd-szlachecki.pl/rez.html
+0 251
+http://www.zajazd-szlachecki.pl/zaj.html
+0 773
+http://noclegi.interia.pl/baza/polski/3599.html
+0 1
+http://zajazd-szlachecki.pl/hot.html
+0 3
+http://szukaj.onet.pl/query.html
+0 9
+http://szukaj.wp.pl/szukaj.html
+0 1
+http://zajazd-szlachecki.pl/
+0 23
+http://www.inocleg.pl/firma/SZLACHECKI/strony/wizytowka.htm
+0 1
+http://www.3klik.pl/eu/go.asp
+0 2
+http://www.zajazd-szlachecki.pl/res.html
+0 945
+http://www.uwoj.krakow.pl/Zajazd_SZLACHECKI_Krakow_Hotelu_i_restauracji_-i,399.html
+0 1
+http://www.hotele-polskie.pl/krakow/zajazd_szlachecki/
+0 1
+http://www.wrotamalopolski.pl/root_Turystyka/Noclegi/Hotele/Krakow/Krakow/zajazdszlachecki.htm
+0 1
+http://www.zajazd-szlachecki.pl/hot.html
+0 716
+# End Of Table - referrers
+# -agents- 
+Java/1.5.0_01
+0 4
+Java/1.5.0_08
+0 1
+Mozilla/4.0 (compatible;)
+0 7
+Googlebot-Image/1.0
+0 14
+Googlebot/2.1
+0 12
+Gigabot/2.0 (http://www.gigablast.com/spider.html)
+0 2
+MSIE 5.0
+0 57
+MSIE 5.5
+0 67
+Google Desktop)"
+0 1
+NetSprint -- 2.0
+0 4
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 2
+envolk/1.7 (+http://www.envolk.com/envolkspiderinfo.html)
+0 4
+Mozilla/5.0
+0 664
+http://www.l
+0 2
+Konqueror/3.0
+0 1
+Opera/9.0
+0 75
+ilial/Nutch-0.9-dev
+0 15
+holmes/3.9 (OnetSzukaj/5.0; +http://szukaj.onet.pl)
+0 1
+MSIE 6.0
+0 4989
+Mozilla/4.0 compatible ZyBorg/1.0 Dead Link Checker (wn.dlc@l
+0 1
+OnetSzukaj/5.0
+0 1
+nextthing.o
+0 1
+Szukacz/1.5 (robot; www.szukacz.pl/jakdzialarobot.html; info@
+0 20
+Yahoo! Slurp
+0 8
+MQBOT/Nutch-0.9-dev (MQBOT Nutch Crawler; http://falcon.cs.ui
+0 2
+# End Of Table - agents
+# -search strings- 
+www.zajazd szlachecki.pl
+2
+zajazd szlachecki w krakowie
+3
+zajazdy malopolska
+2
+wesela krakow
+1
+zajazd szlachecki krak贸w
+15
+tradycyjne potrawy krakowskie
+1
+szlachecki zajazd
+1
+zajazd szlachecki
+12
+zajazd krak贸w
+2
+barszcz czerwony zdj臋cie
+1
+wesela wystr骿 sal
+1
+golonko peklowane
+1
+kuchnia staropolska
+2
+karczmy w krakowie
+1
+szlachecki zajazd krakow
+1
+szlachecki krak贸w
+2
+szlachecki
+2
+zajazd szlachecki krakow
+2
+gruszka marynowana
+1
+smaczna kuchnia krak贸w
+2
+potrawy staropolska
+1
+zajazd
+14
+zajazd szlachecki krak體
+1
+wesela krak贸w
+1
+zak膮ski do grila
+1
+zajazd rezerwacja
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
