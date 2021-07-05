@@ -1,0 +1,969 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+	<title>==========ZAJAZD SZLACHECKI - KRAKÓW========== Karczma Zajazd Szlachecki Zapraszamy do hotelu i restauracji. Oferujemy smaczne dania kuchni staropolskiej i komfortowe pokoje go¶cinne. Zapewniamy mi³± i profesjonaln± obs³ugê, oraz rodzinna atmosferê. Karczma Staropolska, Karczma Zajazd Szlachecki, Karczama Zajazd Szlachecki, Zajazd, Karczma, Staropolska karczma, wesele, wesela, komunie, imprezy komunijne, iprezy weselne, motel, hotel, biesiada, pokoje, noclegi, tanie pokoje, pokoje go¶cinne, zakwaterowanie, go¶ciniec, wypoczynek, odpoczynek, spanie, gospoda, tañce, hulanki, swawole, szlachta, szlachecki, dom wypoczynkowy, zjazdy, imprezy, bankiety, wesela, rauty, Kraków, go¶cie, pub, kawiarnia, klub, wczasy, apartament, ¿ywienie zbiorowe, wêdrowiec, dom wczasowy, pobyty weekendowe, imprezy towarzyskie, biesiady taneczne, restauracja, posi³ki, dania, jedzenie, jad³o, ¿ywienie, kuchnia, gotowanie, staropolska kuchnia, smaczna kuchnia, tradycyjna kuchnia, domowa kuchnia, potrawy, tradycyjne potrawy, przyjêcia, napoje, alkohol, drinki, kawa, dziczyzna, ¿ywno¶æ, piwo, cattering, bufet szwedzki, konferencje, sympozja, imprezy, organizacja</title>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-2">
+	<meta name="Description" content="Zapraszamy do hotelu i restauracji. Oferujemy smaczne dania kuchni staropolskiej i komfortowe pokoje go¶cinne. Zapewniamy mi³± i profesjonaln± obs³ugê, oraz rodzinn± atmosferê.  Karczma Staropolska, Karczma Zajazd Szlachecki, Zajazd, Karczma, Staropolska karczma, wesele, wesela, komunie, imprezy komunijne, iprezy weselne, motel, hotel, biesiada, pokoje, noclegi, tanie pokoje, pokoje go¶cinne, zakwaterowanie, go¶ciniec, wypoczynek, odpoczynek, spanie, gospoda, tañce, hulanki, swawole, szlachta, szlachecki, dom wypoczynkowy, zjazdy, imprezy, bankiety, wesela, rauty, Kraków, go¶cie, pub, kawiarnia, klub, wczasy, apartament, ¿ywienie zbiorowe, wêdrowiec, dom wczasowy, pobyty weekendowe, imprezy towarzyskie, biesiady taneczne, restauracja, posi³ki, dania, jedzenie, jad³o, ¿ywienie, kuchnia, gotowanie, staropolska kuchnia, smaczna kuchnia, tradycyjna kuchnia, domowa kuchnia, potrawy, tradycyjne potrawy, przyjêcia, napoje, alkohol, drinki, kawa, dziczyzna, ¿ywno¶æ, piwo, cattering, bufet szwedzki, konferencje, sympozja, imprezy, organizacja">
+	<meta name="Keywords" content="ZAJAZD SZLACHECKI - KRAKÓW,   Karczma Staropolska, Karczma Zajazd Szlachecki, Karczama Zajazd Szlachecki, Zajazd, Karczma, Staropolska karczma, wesela, wesele, komunie, imprezy komunijne, iprezy weselne, motel, hotel, biesiada, pokoje, noclegi, tanie pokoje, pokoje go¶cinne, zakwaterowanie, go¶ciniec, wypoczynek, odpoczynek, spanie, gospoda, tañce, hulanki, swawole, szlachta, szlachecki, dom wypoczynkowy, zjazdy, imprezy, bankiety, wesela, rauty, Kraków, go¶cie, pub, kawiarnia, klub, wczasy, apartament, ¿ywienie zbiorowe, wêdrowiec, dom wczasowy, pobyty weekendowe, imprezy towarzyskie, biesiady taneczne, restauracja, posi³ki, dania, jedzenie, jad³o, ¿ywienie, kuchnia, gotowanie, staropolska kuchnia, smaczna kuchnia, tradycyjna kuchnia, domowa kuchnia, potrawy, tradycyjne potrawy, przyjêcia, napoje, alkohol, drinki, kawa, dziczyzna, ¿ywno¶æ, piwo, cattering, bufet szwedzki, konferencje, sympozja, imprezy, organizacja">
+	<link href="style.css" rel=stylesheet>
+	<script language="javascript" src="script.js" type="text/javascript"></script>
+</head>
+<body>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" width="670" border="0">
+<tr><td><img src="graf/zajazd.jpg" alt="zajazd" /></td></tr>
+<tr>
+	<td>
+		<table align="center" cellpadding="0" cellspacing="0" width="670" border="0">
+		<tr>
+			<td width="50"><img src="graf/menu_4.gif" alt="menu_4" /></td>
+			<td><a href="index.html"><img src="graf/menu_str.gif" border="0" alt="strona g³ówna" /></a></td>
+			<td><a href="zajazd.html"><img src="graf/menu_zaj.gif" border="0" alt="zajazd i okolica" /></a></td>
+			<td><a href="hotel.html"><img src="graf/menu_hot.gif" border="0" alt="hotel" /></a></td>
+			<td><a href="restauracja.html"><img src="graf/menu_res.gif" border="0" alt="restauracja" /></a></td>
+			<td><a href="rezerwacja.php"><img src="graf/menu_rez.gif" border="0" alt="rezerwacja" /></a></td>
+			<td><a href="kontakt.html"><img src="graf/menu_kon.gif" border="0" alt="kontakt" /></a></td>
+			<td width="50"><img src="graf/menu_5.gif" alt="menu_4" /></td>
+		</tr>
+		</table>	
+	</td>
+</tr>
+<tr><td><img src="graf/menu_3.jpg" alt="menu_3" /></td></tr>
+<tr>
+	<td style="background: url(graf/tlo.jpg)">
+		<table cellpadding="0" cellspacing="0" width="670" border="0">
+		<tr>
+			<td width="50" valign="top"><img src="graf/menu_1.gif" alt="menu_1" /></td>
+			<td width="570" align="center">
+			<td width="50" valign="top"><img src="graf/menu_2.gif" alt="menu_2" /></td>
+</table>
+<!-- modu³ -->
+				<div align="center">
+				<table width="570">
+				<tr>
+				<td>					
+				<div align="center">				
+								<div class="tytul" algin="center" >Restauracja</div>
+</div>				
+				<br />
+				<div class="modul">
+					Restauracja sk³ada siê z 2 pomieszczeñ - dolnego ogólodostêpnego, oraz górnego - przeznaczonego do organizacji imprez gastronomicznych. Wystrój wnêtrza restauracji utrzymany jest w surowym stylu drewna oraz kamienia nawi±zuj±c wygl±dem do ¶redniowiecznej karczmy.<br /><br />
+					W restauracji organizowane s± imprezy takie, jak wesela, bankiety, przyjêcia, które dziêki oryginalnemu klimatowi Zajazdu zostan± na d³ugo w pamiêci.<br /><br />
+					Go¶cie mog± posiliæ siê smacznymi tradycyjnymi staropolskimi potrawami lub daniami wed³ug indywidualnego zamówienia w ka¿dej porze dnia (¶niadania, obiady, kolacje), a tak¿e odpocz±æ od wielkomiejskiego zgie³ku i napiæ siê piwa z przyjació³mi.
+				</div>
+				</td>
+				</tr>
+				</table>
+</div>
+<br />
+				<table cellpadding="0" cellspacing="5" border="0" align="center">
+				<tr>
+					<td><a href="javascript:pic('temp/3a.jpg',640,480)"><img src="temp/3b.gif" border="0" class="bdr" alt="restauracja" /></a></td>
+					<td><a href="javascript:pic('zdj1/sd_l.JPG',640,480)"><img src="zdj1/sd_s.JPG" border="0" class="bdr" alt="restauracja" /></a></td>
+					<td><a href="javascript:pic('temp/5a.jpg',640,480)"><img src="temp/5b.gif" border="0" class="bdr" alt="restauracja" /></a></td>
+					<td><a href="javascript:pic('temp/7a.jpg',640,480)"><img src="temp/7b.gif" border="0" class="bdr" alt="restauracja" /></a></td>
+					<td><a href="javascript:pic('temp/8a.jpg',640,480)"><img src="temp/8b.gif" border="0" class="bdr" alt="restauracja" /></a></td>
+				</tr>
+				</table>
+				<br /> 
+<!-- koniec: modu³ -->
+<!-- modu³ MENU -->
+
+<br />
+
+				
+				<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr><td>
+	<a name="gora"></a>
+	<span class="tytul">Menu:</span><br>
+	</tr></td>
+				</table>
+
+<div align="center">				
+						<table algin="center" width="96">
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+	
+	<td width="38%" valign="top">
+		<a href="#szlacheckie biesiadowanie" class="m">Szlacheckie biesiadowanie</a><br		
+		<a herf="#szef" class="m">Szef kuchni poleca </a><br
+		<a href="#zak±ski" class="m">Zak±ski </a><br>
+		<a href="#zupy" class="m">Zupy</a><br>
+		<a href="#ryby" class="m">Dania z ryb</a><br>
+		<a href="#drob" class="m">Dania z drobiu</a><br>
+	</td>
+	<td width="32%" valign="top">
+		<a href="#wieprzowina" class="m">Wieprzowina</a><br>
+		<a href="#cielêcina" class="m">Cielêcina</a><br>
+		<a href="#wo³owina" class="m">Wo³owina</a><br>
+		<a href="#domowe" class="m">Dania Domowe</a><br>
+		<a href="#dodatki" class="m">Dodatki</a><br>
+		<a href="#surowki" class="m">Sa³atki</a><br>
+	</td>
+	<td width="30%" valign="top">
+		<a href="#desery" class="m">Desery</a><br>		
+		<a href="#gorace" class="m">Kawy, herbaty</a><br>
+		<a href="#zimne" class="m">Napoje zimne</a><br>
+		<a href="#piwo" class="m">Piwa</a><br>
+		<a href="#alkohol" class="m">Alkohole</a><br>
+	</td>
+	</tr></table>	
+	<br><img src="graf/linia.gif"><br><br>
+	<a name="szef"></a>
+	<span class="w">Szlacheckie Biesiadowanie </span>
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Decha wêdlin i serów /dla 3-4 osób/</td>
+		<td align="right">400 g</td>
+		<td align="right">48,00 z³</td>
+<!--  </tr><tr>
+		<td width="65%" align="left">Jad³o smakosza</td>
+      <td align="right">550 g</td>
+      <td align="right">46,00 z³</td -->
+   </tr><tr>
+		<td width="65%" align="left">Jad³o dla dwojga</td>
+      <td align="right">350 g</td>
+		<td align="right">48,00 z³</td>
+	</tr><tr>    
+	<td width="50%" >/filet drobiowy, schab, pierogi z miêsem, ziemniaki zapiekane, kapusta zasma¿ana/</td>
+	</tr><tr>	
+		<td width="65%" align="left">Szlacheckie Jad³o Ma³e /dla 3-4 osób/</td>
+		<td align="right">600 g</td>
+		<td align="right">72,00 z³</td>
+   </tr><tr>
+	<td width="50%" >/filet drobiowy, karczek, ¿eberko, boczek, pierogi z miêsem, ziemniaki zapiekane, kapusta zasma¿ana/</td>
+	</tr><tr>		
+		<td width="65%" align="left">Szlacheckie Jad³o Du¿e /dla 5-6 osób/</td>
+      <td align="right">1200 g</td>
+      <td align="right">124,00 z³</td
+   </tr><tr>
+	<td width="50%" >/polêdwiczki z kurczaka, schab, golonko, kie³basa, ¿eberko, boczek, pierogi z miêsem, ziemniaki zapiekane/</td>
+   </tr><tr>
+		<td width="65%" align="left">Szabla Ksiêcia Karola z dodatkami /dla 5-6 osób/</td>
+		<td align="right">1000 g</td>
+		<td align="right">195,00 z³</td>
+	</tr><tr>
+	<td width="50%" >/polêdwiczka wo³owa, polêdwiczka wieprzowa, filet drobiowy, schab, boczek, papryka, ogórek kiszony, pieczarki, ziemniaki zapiekane, frytki, ³ódeczki ziemniaczane, zestaw sa³atek/</td>
+   </tr>
+		<table>
+	<br><img src="graf/linia.gif"><br><br>
+	<a name="szef"></a>
+	<span class="w">Szef kuchni poleca</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Kaczka pieczona w sosie ¿urawinowym z jab³kiem</td>
+		<td align="right">160 g</td>
+		<td align="right">30,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Gicz jagniêca w sosie w³asnym na kr±¿kach cebulowych</td>
+		<td align="right">320 g</td>
+		<td align="right">45,00 z³</td>
+	</tr><tr>	
+	   <td width="65%" align="left">Królik w sosie smietanowym z kluskami ¶l±skimi</td>
+		<td align="right">w/w 100 g</td>
+		<td align="right">14,00 z³</td>
+<!--</tr><tr>
+		<td width="65%" align="left">Pieczeñ z dzika z kasz± gryczan±</td>
+      <td align="right">130 g</td>
+      <td align="right">39,00 z³</td -->
+   </tr><tr>
+		<td width="65%" align="left">Ossobuco z jelenia z purre ziemniaczanym</td>
+		<td align="right">300 g</td>
+		<td align="right">36,00 z³</td>
+   </tr><tr>
+		<td width="65%" align="left">Mix miês grillowanych z pieczarkami w sosie pomidorowo-zio³owym</td>
+		<td align="right">250 g</td>
+		<td align="right">35,00 z³</td>
+	</tr>/<table>
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<img src="graf/linia.gif"><br><br>
+	<a name="zak±ski"></a>
+	<span class="w">Zak±ski</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Pajda chleba ze smalcem i kiszonym ogórkiem</td>
+      <td align="right">110 g</td>
+      <td align="right">6,00 z³</td>
+<!--</tr><tr>		
+		<td width="65%" align="left">Sa³atka z szynk± parmeñsk±</td>
+      <td align="right">300 g</td>
+      <td align="right">23,00 z³</td> -->
+   </tr><tr>
+      <td width="65%" align="left">Sa³atka wegetariañska z serem feta</td>
+		<td align="right">300 g</td>
+		<td align="right">18,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">¦led¼ w ¶mietanie i oleju</td>
+		<td align="right">150 g</td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Tatar z ³ososia z kawiorem</td>
+      <td align="right">150 g</td>
+      <td align="right">21,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">Tatar z polêdwicy wo³owej</td>
+		<td align="right">150 g</td>
+		<td align="right">29,00 z³</td>
+   </tr><tr>
+		<td width="65%" align="left">Rydze w ma¶le</td>
+		<td align="right">120 g</td>
+		<td align="right">21,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Pieczarki panierowane z sosem czosnkowym</td>
+		<td align="right">150 g</td>
+		<td align="right">12,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Mozzarella panierowana z ¿urawin±</td>
+		<td align="right">160 g</td>
+		<td align="right">18,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Serek góralski na boczku</td>
+		<td align="right">150 g</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Sa³atka z grillowanym kurczakiem i boczkiem</td>
+		<td align="right">300 g</td>
+		<td align="right">20,00 z³</td> -->
+	</tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="zupy"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Zupy</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Ch³odnik z botwinki</td>
+		<td align="right">500 g</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>		
+		<td width="65%" align="left">Pomidorowa z grzank± serow±</td>
+		<td align="right">400 g</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>		
+		<td width="65%" align="left">Krem borowikowy z ³azankami w czarce chlebowej</td>
+		<td align="right">400 g</td>
+		<td align="right">14,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Kasztelañski ¿urek</td>
+		<td align="right">400 g</td>
+		<td align="right">12,00 z³</td>
+	</tr><tr>
+
+		<td width="65%" align="left">Barszcz czerwony solo</td>
+		<td align="right">200 g</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Barszcz czerwony z uszkami</td>
+		<td align="right">400 g</td>
+		<td align="right">12,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Flaki wo³owe</td>
+		<td align="right">400 g</td>
+		<td align="right">13,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">Rosó³ z makaronem</td>
+      <td align="right">400 g</td>
+      <td align="right">10,00 z³</td>  
+   </tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>	
+	<a name="ryby"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Dania z ryb</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Sandacz w migda³ach podany na szparagach</td>
+		<td align="right">150 g</td>
+		<td align="right">39,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Sola sma¿ona z mas³em czosnkowym na jarzynach</td>
+		<td align="right">120 g</td>
+		<td align="right">25,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Dorsz zapiekany w pomidorach pod parmezanem</td>
+		<td align="right">150 g</td>
+		<td align="right">26,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Grillowany ³oso¶ na szpinaku w sosie z zielonego pieprzu</td>
+		<td align="right">180 g</td>
+		<td align="right">28,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Pstr±g sma¿ony z chrzanem</td>
+		<td align="right">250 g</td>
+		<td align="right">23,00 z³</td>
+	</tr></table>
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="drob"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Dania z drobiu</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Filet z serem i ¿urawin±,gruszk± i sosem musztardowo-¶liwkowym</td>
+		<td align="right">150 g</td>
+		<td align="right">20,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Grillowana pier¶ z kurczaka w sosie pomidorowo-zio³owym</td>
+		<td align="right">150 g</td>
+		<td align="right">19,00 z³</td>
+	</tr><tr>
+      <td width="65%" align="left">Roladka z suszonymi pomidorami i mozzarell± na sosie z zielonego pieprzu</td>
+      <td align="right">150 g</td>
+      <td align="right">21,00 z³</td>
+   </tr><tr>
+		<td width="65%" align="left">Filet panierowany</td>
+		<td align="right">150 g</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Polêdwiczki z kurczaka w parmezanie z gor±cym czosnkiem</td>
+		<td align="right">150 g</td>
+		<td align="right">20,00 z³</td>		
+	</tr></table>	
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="wieprzowina"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Wieprzowina</span>
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Schab zapiekany z pieczarkami i serkiem góralskim</td>
+		<td align="right">150 g</td>
+		<td align="right">20,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Tradycyjny kotlet schabowy</td>
+		<td align="right">150 g</td>
+		<td align="right">17,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">Karczek grillowany z kr±¿kami cebuli</td>
+      <td align="right">200 g</td>
+      <td align="right">18,00 z³</td>
+	</tr><tr>
+		<td width="65%" align="left">Polêdwiczka w podgrzybkach</td>
+		<td align="right">180 g</td>
+		<td align="right">26,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">¯eberko pieczone podane na kapu¶cie</td>
+      <td align="right">200 g</td>
+      <td align="right">20,00 z³</td>
+   </tr><tr>
+      <td width="65%" align="left">Golonko z chrzanem i musztard± (z/k)</td>
+      <td align="right">w/w 100 g</td>
+      <td align="right">6,00 z³</td> 
+   </tr><tr>
+      <td width="65%" align="left">Schab grillowany na sosie porowym</td>
+      <td align="right">150 g</td>
+      <td align="right">19,00 z³</td> 
+	</tr></table>
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="cielêcina"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Cielêcina</span>
+   <table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+       <td width="65%" align="left">Stek po Szlachecku</td>
+       <td align="right">130 g</td>
+       <td align="right">25,00 z³</td>
+   </tr><tr>
+       <td width="65%" align="left">Cielêcina w cie¶cie</td>
+       <td align="right">130 g</td>
+       <td align="right">24,00 z³</td>
+   </tr><tr>
+       <td width="65%" align="left">Pieczeñ cielêca w sosie kurkowym</td>
+       <td align="right">130 g</td>
+       <td align="right">28,00 z³</td>
+   </tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="wo³owina"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Wo³owina</span>
+   <table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+       <td width="65%" align="left">Wo³owina Kasztelana</td>
+       <td align="right">160 g</td>
+       <td align="right">37,00 z³</td>
+   </tr><tr>
+       <td width="65%" align="left">Polêdwica z mas³em czosnkowym</td>
+       <td align="right">160 g</td>
+       <td align="right">36,00 z³</td>
+   </tr></tr>   
+       <td width="65%" align="left">Polêdwica w sosie z zielonego pieprzu</td>
+       <td align="right">160 g</td>
+       <td align="right">38,00 z³</td>
+   </tr></table>   
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="domowe"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Dania Domowe</span>
+   <table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>          
+       <td width="65%" align="left">Mix pierogów sma¿onych w okrasie<br>(ruskie, z miêsem, z kapust± i grzybami)</td>
+       <td align="right">12 szt.</td>
+       <td align="right">17,00 z³</td>
+   </tr><tr>       
+       <td width="65%" align="left">Nale¶niki ze szpinakiem i serem feta</td>
+       <td align="right">250 g</td>
+       <td align="right">16,00 z³</td>  
+   </tr><tr>       
+       <td width="65%" align="left">Nale¶niki ze szpinakiem i serem feta</td>
+       <td align="right">250 g</td>
+       <td align="right">16,00 z³</td> 
+   </tr><tr>       
+       <td width="65%" align="left">Nale¶niki z serem i sosem truskawkowym</td>
+       <td align="right">250 g</td>
+       <td align="right">15,00 z³</td> 
+   </tr><tr>
+       <td width="65%" align="left">Placki ziemniaczane z kwa¶n± ¶mietan±</td>
+       <td align="right">350 g</td>
+       <td align="right">14,00 z³</td>
+   </tr><tr>
+       <td width="65%" align="left">Placki ziemniaczane z gulaszem</td>
+       <td align="right">350 g</td>
+       <td align="right">22,00 z³</td>
+   </tr><tr>
+       <td width="65%" align="left">Placki ziemniaczane z sosem grzybowym</td>
+       <td align="right">350 g</td>
+       <td align="right">18,00 z³</td>
+   </tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="dodatki"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Dodatki</span>
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+                <td width="65%" align="left">Ziemniaki zapiekane po krakowsku</td>
+                <td align="left">200 g</td>
+                <td align="right">6,50 z³</td>
+        </tr><tr>
+                <td width="65%" align="left">Ziemniaki z wody / purre</td>
+                <td align="left">200 g</td>
+                <td align="right">6,00 z³</td>
+        </tr><tr>
+                <td width="65%" align="left">Frytki</td>
+                <td align="left">150 g</td>
+                <td align="right">6,00 z³</td>
+        </tr><tr>
+                <td width="72%" align="left">£ódeczki ziemniaczane</td>
+                <td align="left">150 g</td>
+                <td align="right">6,00 z³</td>
+        </tr><tr>
+                <td align="left">Kluski ¶l±skie</td>
+                <td align="left">200 g</td>
+                <td align="right">6,00 z³</td>
+        </tr><tr>
+                <td align="left">Ry¿</td>
+                <td align="left">130 g</td>
+                <td align="right">6,00 z³</td>
+        </tr><tr>
+                <td align="left">Ry¿ z warzywami</td>
+                <td align="left">150 g</td>
+                <td align="right">8,00 z³</td>       
+        </tr><tr>
+                <td align="left">Kasza gryczana</td>
+                <td align="left">150 g</td>
+                <td align="right">6,00 z³</td>        
+        </tr><tr>
+                <td align="left">Zsiad³e mleko /Krasnystaw/</td>
+                <td align="left">400 g</td>
+                <td align="right">9,00 z³</td>
+        </tr><tr>
+                <td align="left">Pieczywo</td>
+                <td align="left"></td>
+                <td align="right">2,00 z³</td>
+        </tr><tr>
+                <td align="left">Mas³o</td>
+                <td align="left"></td>
+                <td align="right">2,00 z³</td>
+        </tr><tr>
+                <td align="left">Sosy</td>
+                <td align="left"></td>
+                <td align="right">3,00 z³</td> 		  
+		  </tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="surowki"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Sa³atki</span>
+   <table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Zestaw sa³atek</td>
+		<td align="right">150 g</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td align="left">Mizeria</td>
+		<td align="right">150 g</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td align="left">Ogórek kiszony</td>
+		<td align="right">150 g</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td align="left">Szpinak</td>
+		<td align="right">150 g</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td align="left">Buraczki na zimno</td>
+		<td align="right">150 g</td>
+		<td align="right">6,00 z³</td>
+   </tr><tr>
+      <td align="left">Kapusta zasma¿ana</td>
+      <td align="right">150 g</td>
+      <td align="right">6,00 z³</td>
+   </tr><tr>   
+		<td align="left">Bukiet jarzyn na gor±co z bu³k± tart±</td>
+		<td align="right">150 g</td>
+		<td align="right">8,00 z³</td>
+	</tr></table>
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="desery"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Desery</span>
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="65%" align="left">Koktail owocowy</td>
+		<td align="right"></td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Puchar ¶wie¿ych owoców</td>
+		<td align="right"></td>
+		<td align="right">12,00 z³</td>
+   </tr><tr>
+		<td align="left">Lody po szlachecku</td>
+		<td align="right"></td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Puchar lodowy z owocami i bit± ¶mietan±</td>
+		<td align="right"></td>
+		<td align="right">12,00 z³</td>
+	</tr><tr>
+		<td align="left">Sernik na sosie wi¶niowym</td>
+		<td align="right"></td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td align="left">Jab³ecznik na ciep³o z lodami i sosem karmelowym</td>
+		<td align="right"></td>
+		<td align="right">14,00 z³</td>
+	</tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="gorace"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Napoje gor±ce</span>
+	<br> Kawy parzymy z ziarna Top Clas Lavazza
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+		<td width="" width="" align="left">Kawa Americano</td><td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Kawa Espresso</td><td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Kawa Cappuccino</td><td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">Kawa Latte</td><td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Kawa Parzona</td><td align="right">7,00 z³</td>
+	</tr><tr>
+      <td align="left">Kawa Mro¿ona</td><td align="right">15,00 z³</td>
+	</tr><tr>
+      <td align="left">Kawa Rozpuszczalna /MC Cafe Premium/</td><td align="right">7,00 z³</td>     
+	</tr><tr>
+      <td align="left">Mleko do kawy</td><td align="right">1,00 z³</td>
+	</tr><tr>
+      <td align="left">Syropy do kawy</td><td align="right">2,00 z³</td>
+   <br> Parzymy herbaty firmy Dilmah w dzbankach
+	</tr><tr>		
+		<td align="left">Herbata  ró¿ne smaki</td><td align="right">6,50 z³</td>
+	</tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="zimne"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Napoje zimne</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+			<td colspan="2" align="left">Sok wyciskany ze ¶wie¿ych owoców</td>
+		<td align="right">250ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>				<td colspan="2" align="left">Kompot truskawkowo-wi¶niowy</td>
+		<td align="right">250ml</td>
+		<td align="right">5,00 z³</td>	
+	</tr><tr>
+		<td colspan="2" align="left">Pepsi, Pepsi Light</td>
+		<td align="right">but. 0,2l</td>
+		<td align="right">6,00 z³</td>	
+	</tr><tr>		
+		<td colspan="2" align="left">7 Up</td>
+		<td align="right">but. 0,2l</td>		
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Mirinda</td>
+		<td align="right">but. 0,2l</td>		
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Tonic Schweppes</td>
+		<td align="right">but. 0,2l</td>		
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Podpiwek</td>
+		<td align="right">but. 0,33l</td>		
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Kwas chlebowy rycerski, porter, miodowy, przeniczny</td>
+		<td align="right">but. 0,33l</td>		
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Woda Cisowianka classique, perlage, silnie gazowana</td>
+		<td align="right">but. 0,3l</td>		
+		<td align="right">7,00 z³</td>
+	</tr><tr>		<td colspan="2" align="left">Red Bull</td>
+		<td align="right">but. 0,25l</td>		
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td colspan="2" align="left">Lipton</td>
+		<td align="right">but. 0,2l</td>
+		<td align="right">6,00 z³</td>   </tr><tr>
+		<td colspan="2" align="left">Soki Tymbark ró¿ne smaki</td>
+		<td align="right">250ml</td>		
+		<td align="right">7,00 z³</td>
+	</tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="piwo"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Piwa</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0"><tr>
+
+      <td align="left">Tyskie Gronie</td>
+      <td align="right">lane - 0,3 l</td>
+      <td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">Tyskie Gronie</td>
+		<td align="right">lane - 0,5 l</td>
+		<td align="right">9,00 z³</td>	
+	</tr><tr>
+		<td align="left">Tyskie Gronie</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">10,00 z³</td>	
+	</tr><tr>
+		<td align="left">Tyskie Klasyczne</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">10,00 z³</td>	
+	</tr><tr>
+		<td align="left">Ksi±¿êce Z³ote Przeniczne</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+	```<td align="left">Ksi±¿êce Czerwony Lager</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>		
+		<td align="left">Ksi±¿êce Ciemne £agodne</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">11,00 z³</td>	
+	</tr><tr>		
+		<td align="left">Lech Premium</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">10,00 z³</td>	
+	</tr><tr>
+      <td align="left">Lech Ice Shandy</td>
+      <td align="right">but. 0,5 l</td>
+      <td align="right">10,00 z³</td>		
+	</tr><tr>
+      <td align="left">¯ubr</td>
+      <td align="right">but. 0,5 l</td>
+      <td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Dêbowe Mocne</td>
+		<td align="right">but. 0,5 l</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>		
+		<td align="left">Pilsner Urquell</td>
+		<td align="right">but. 0,33 l</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Cider Green Mill</td>
+		<td align="right">but. 0,4 l</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Lech free</td>
+		<td align="right">but. 0,33 l</td>
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">Redd's</td>
+		<td align="right">but. 0,4 l</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Sok malinowy, imbirowy do piwa</td>
+		<td align="right"></td>
+		<td align="right">2,00 z³</td>
+	</tr></table>	
+	
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+	<a name="alkohol"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Alkohole</span>
+	
+	<table border="0" width="75%" cellpadding="5" cellspacing="0">
+	<tr>
+      <td align="left">Wódka Absolut</td>
+		<td align="right">40 ml</td>
+		<td align="right">8,00 z³</td>
+	</tr><tr>
+		<td align="left">Wódka Finlandia</td>
+		<td align="right">40 ml</td>
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">Wódka Wyborowa</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Wódka Bols</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Wódka Pan Tadeusz</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Wódka Soplica</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">¯o³±dkowa Gorzka</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">¯ubrówka</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Krupnik</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Soplica czysta i smakowa</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Ch³opska pêdzona bimber, czarny bez</td>
+		<td align="right">40 ml</td>
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">Ch³opska pêdzona czysta, szarlotka</td>
+		<td align="right">40 ml</td>
+		<td align="right">8,00 z³</td>	</tr><tr>
+		<td align="left">Jagermeister</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Underberg</td>
+		<td align="right">20 ml</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Tequila Olmeca Bianco</td>
+		<td align="right">40 ml</td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td align="left">Tequila Olmeca Gold</td>
+		<td align="right">40 ml</td>
+		<td align="right">14,00 z³</td>
+	</tr><tr>
+		<td align="left">Rum Bacardi</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>	</tr><tr>
+		<td align="left">Rum Golden</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Gin Bombay Sopphire</td>
+		<td align="right">40 ml</td>
+		<td align="right">14,00 z³</td>
+	</tr><tr>
+		<td align="left">Gin Gordon's London</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Gin Lubuski</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Grand's</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Whisky Ballantines Finest</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Whisky Jack Daniel's</td>
+		<td align="right">40 ml</td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td align="left">Whisky Johnnie Walker Red</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Whisky Johnnie Walker Black</td>
+		<td align="right">40 ml</td>
+		<td align="right">18,00 z³</td>
+	</tr><tr>
+		<td align="left">Wild Turkey 81</td>
+		<td align="right">40 ml</td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td align="left">Jim Bean Red Stag</td>
+		<td align="right">40 ml</td>
+		<td align="right">12,00 z³</td>			
+	</tr><tr>
+		<td align="left">Cognac Martell V.S.</td>
+		<td align="right">40 ml</td>
+		<td align="right">18,00 z³</td>
+	</tr><tr>
+		<td align="left">Cognac Hennessy V.S.</td>
+		<td align="right">40 ml</td>
+		<td align="right">20,00 z³</td>
+	</tr><tr>
+		<td align="left">Brandy Stock</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Metaxa 5*</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>		
+	</tr><tr>
+		<td align="left">Wermut Martini</td>
+		<td align="right">100 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Cointreau</td>
+		<td align="right">40 ml</td>
+		<td align="right">14,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Malibu Caribbean</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Bailey's</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Advocat</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Campari Bitter</td>
+		<td align="right">40 ml</td>
+		<td align="right">11,00 z³</td>
+	</tr><tr>
+		<td align="left">Likier Kahlua</td>
+		<td align="right">40 ml</td>
+		<td align="right">13,00 z³</td>
+	</tr><tr>
+		<td align="left">Bols Likiery</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+<!--		
+		<td align="left">"Soberano"</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,00 z³</td>
+	</tr><tr>
+	
+		<td align="left">"Kibowi"</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">"Grenadine"</td>
+		<td align="right">40 ml</td>
+		<td align="right">5,00 z³</td>
+	</tr><tr>
+		<td align="left">"Campari"</td>
+		<td align="right">40 ml</td>
+		<td align="right">7,50 z³</td>
+	</tr><tr>
+		<td align="left">Nalweka zop³owa "Underberg"</td>
+		<td align="right">20 ml</td>
+		<td align="right">12,00 z³</td>
+	</tr><tr>
+	
+		<td align="left">Likier Miêtowy</td>
+		<td align="right">40 ml</td>
+		<td align="right">10,00 z³</td>
+	</tr><tr>
+		<td align="left">"Creme de Cassis"</td>
+		<td align="right">40 ml</td>
+		<td align="right">9,00 z³</td>
+	</tr><tr>
+		<td align="left">"Jagermeister"</td>
+		<td align="right">40 ml</td>
+		<td align="right">8,00 z³</td>
+	</tr><tr>
+		<td align="left">Miód pitny</td>
+		<td align="right">100 ml</td>
+		<td align="right">6,00 z³</td>
+	</tr><tr>
+		<td align="left">"Grzaniec Galicyjski"</td>
+		<td align="right">200 ml</td>
+		<td align="right">6,00 z³</td>
+	</tr></table>
+
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+ MODU£ DRINKI
+	<a name="coctaile"></a>
+	<img src="graf/linia.gif"><br><br><span class="w">Coctaile</span>
+	
+	<table border="0" width="70%" cellpadding="5" cellspacing="0"><tr>
+		<td width="80%" align="left">Capuccino<br>(creme de cacao, wódka, mleko)</td>
+		<td align="right">15,00 z³</td>
+	</tr><tr>
+		<td align="left">Pinacolada<br>(malibu, wódka, sok ananasowy, mleko)</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Kamikadze II<br>(wódka, curacao, sok z cytryny)</td>
+		<td align="right">11,50 z³</td>
+	</tr><tr>
+		<td align="left">Crazy Dog<br>(wódka, sok malinowy, tabasco)</td>
+		<td align="right">6,50 z³</td>
+	</tr><tr>
+		<td align="left">Rarytas<br>(advocat, kibowi, mleko)</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Carmen<br>(finlandia, finlandia cranbery, blavod)</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Salty Dog<br>(absolut curant, tonic)</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Sweet Twist<br>(absolut mandarin, creme de cacao, mleko)</td>
+		<td align="right">15,00 z³</td>
+	</tr><tr>
+		<td align="left">Blush Curant<br>(absolut curant, tonic)</td>
+		<td align="right">13,50 z³</td>
+	</tr><tr>
+		<td align="left">Zbójnicki<br>(absolut curant i czysty sok z porzeczki, cytryny i ananasa)</td>
+		<td align="right">15,00 z³</td>
+	</tr><tr>
+		<td align="left">Nadzieja<br>(gin, curacao/kibowi, martini, tonic)</td>
+		<td align="right">17,00 z³</td>
+	</tr><tr>
+		<td align="left">Wawelski<br>(sambuca, malibu, mleko)</td>
+		<td align="right">17,00 z³</td>
+	</tr><tr>
+		<td align="left">Bona<br>(malibu, curacao, mleko)</td>
+		<td align="right">15,50 z³</td>
+	</tr><tr>
+		<td align="left">Okazja<br>(wódka, martini, mineralna)</td>
+		<td align="right">12,50 z³</td>
+	</tr><tr>
+		<td align="left">Stañczyk<br>(gin, curacao/kibowi, 7up, sok z cytryny)</td>
+		<td align="right">15,50 z³</td>
+	</tr><tr>
+		<td align="left">Czarna Wdowa<br>(blavod vódka, martini)</td>
+		<td align="right">14,00 z³</td>
+	</tr><tr>
+		<td align="left">Amorek<br>(absolut mandarin, curacao, sok z pomarañczy i cytryny)</td>
+		<td align="right">16,00 z³</td>
+	</tr><tr>
+		<td align="left">Z³ota Jesieñ<br>(kibowi, campari, gin, tonic, sok pomarañczowy)</td>
+		<td align="right">21,00 z³</td>
+	</tr><tr>
+		<td align="left">Golden Dream<br>(wódka, rum, krupnik, mineralna)</td>
+		<td align="right">16,50 z³</td>
+	</tr><tr>
+		<td align="left">Nadzieja III<br>(wódka, cointreau, curacao, sok pomarañczowy)</td>
+		<td align="right">18,00 z³</td>
+	</tr></table>
+	<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br><br><br>
+	
+	</td>   -->				</table>
+<a href="#gora"><img src="graf/gora.gif" alt="do gory" vspace="2" border="0"></a><br>
+          </table>			</td>
+		</tr>
+	</td>
+</tr>
+<div align="center"><img src="graf/stopka.jpg" alt="stopka" /></div>
+
+</body>
+</html>

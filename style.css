@@ -1,0 +1,28 @@
+body { font-size: 13px; font-family: georgia,verdana,arial,sans-serif; text-decoration: none; color: #491401; background-color: #000000; margin-left: 0px; margin-top: 0px; margin-right: 0px; line-height:18px }
+td { font-size: 13px; font-family: georgia,verdana,arial,sans-serif; text-decoration: none; color: #491401; line-height:18px }
+
+.tytul { font-size: 24px; color: #86240D }
+
+.tyt_wiad { font-size: 15px; color: #DD5901; font-weight: bold }
+a.tyt_wiad:link,a.tyt_wiad:visited { font-size: 15px; color: #DD5901; font-weight: bold; text-decoration: underline }
+a.tyt_wiad:hover { font-size: 15px; color: #FF3000; font-weight: bold; text-decoration: underline }
+
+.wiecej { font-size: 11px; color: #DD5901 }
+a.wiecej:link,a.wiecej:visited { font-size: 11px; color: #DD5901; text-decoration: underline }
+a.wiecej:hover { font-size: 11px; color: #FF3000; text-decoration: underline }
+
+.menu1 { font-size: 12px; color: #CF5200; font-weight: bold }
+a.menu1:link,a.menu1:visited { font-size: 12px; color: #CF5200; font-weight: bold; text-decoration: underline }
+a.menu1:hover { font-size: 12px; color: #FF3000; font-weight: bold; text-decoration: underline }
+
+.menu2 { font-size: 17px; color: #86240D }
+
+.error { font-size: 15px; color: #ffffff }
+
+.modul { margin-left: 40px; margin-right: 40px; text-align: left }
+
+.bdr { border: 1px solid #491401 }
+
+.form { border: 1px solid #000000; background-image: url(graf/form_bg.gif); font-size: 11px }
+.form_send { border: 1px solid #000000; background: #E08E00; color: #ffffff; font-size: 15px; font-weight: bold }
+.w { font-family: "Monotype Corsiva"; font-size: 14pt; color: #502000; font-weight: bold; text-decoration: none; }
